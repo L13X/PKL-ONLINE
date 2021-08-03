@@ -2,3 +2,5 @@ PKL ONLINE
 - Menginstall XAMPP dan Code Igniter 4
 - Membuat Halaman Login
 - Mempelajari Auth
+- mendesign login
+- menambahkan fitur 
